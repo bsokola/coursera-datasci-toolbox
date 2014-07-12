@@ -1,0 +1,17 @@
+SokolaMacBookAir:~ coursera$ git config --global user.name "Brad Sokola"
+SokolaMacBookAir:~ coursera$ git config --global user.email "bsokola@gmail.com"
+SokolaMacBookAir:~ coursera$ git config --list
+user.name=Brad Sokola
+user.email=bsokola@gmail.com
+
+
+SokolaMacBookAir:Data Scientist Toolbox coursera$ mkdir coursera-datasci-toolbox
+SokolaMacBookAir:Data Scientist Toolbox coursera$ cd coursera-datasci-toolbox/
+SokolaMacBookAir:coursera-datasci-toolbox coursera$ ls -lrt
+SokolaMacBookAir:coursera-datasci-toolbox coursera$ pwd
+/Users/coursera/Desktop/Coursera/Data Scientist Toolbox/coursera-datasci-toolbox
+SokolaMacBookAir:coursera-datasci-toolbox coursera$ git init
+Initialized empty Git repository in /Users/coursera/Desktop/Coursera/Data Scientist Toolbox/coursera-datasci-toolbox/.git/
+SokolaMacBookAir:coursera-datasci-toolbox coursera$ git remote add origin https://github.com/bsokola/coursera-datasci-toolbox.git
+SokolaMacBookAir:coursera-datasci-toolbox coursera$ 
+
